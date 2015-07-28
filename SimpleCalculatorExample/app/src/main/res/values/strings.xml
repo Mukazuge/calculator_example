@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleCalculatorExample</string>
+
+    <string name="type.something">Type Something</string>
+    <string name="operation.process">Operation Process</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
